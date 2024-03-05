@@ -1,4 +1,4 @@
-echo # my-first-project >> README.md
+echo # About my-first-project >> README.md
 git init
 git add README.md
 Commit -m "first commit"
